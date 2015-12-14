@@ -1,1 +1,1 @@
-print("H.Greeting","Earth")
+print("Greeting","Earth")
